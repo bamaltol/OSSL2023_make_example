@@ -2,5 +2,5 @@
 #define _MYLIB_H_
 
 void swap(int*,int*);
-
+int subtract(int,int);
 #endif
