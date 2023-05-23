@@ -16,3 +16,9 @@ void swap(int* a, int*b){
 void add(int a, int b){
 	return a+b;
 }
+void multiple(int a, int b){
+	return a*b;
+}
+void divide(int a, int b){
+	return a/b;
+}
