@@ -2,8 +2,8 @@
 #include "mylib.h"
 
 int main(void){
-
-	int a=3, b=5;
+	int a,b;
+	scanf("%d %d",&a,&b);
 	printf("(initial) a=%d, b=%d\n",a,b);
 
 	swap(&a,&b);
